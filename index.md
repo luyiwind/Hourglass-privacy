@@ -57,4 +57,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 ## 6. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
-**[luyiuestc@gmail.com](mailto:luyiuestc@gmail.com)**
+**<luyiuestc@gmail.com>**
