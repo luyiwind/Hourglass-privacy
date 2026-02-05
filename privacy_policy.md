@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for Hourglass
 
 **Last updated: February 04, 2026**
