@@ -45,15 +45,19 @@ For the purpose of Google Play's Data Safety section:
     *   **Device or other IDs**: Advertising ID (AdMob), Anonymous RevenueCat ID.
     *   **Purchase History**: Information about themes or pro subscriptions purchased (managed by RevenueCat).
 
-## 4. Children’s Privacy
+## 4. Intellectual Property
+
+All visual and audio assets within the App, including but not limited to synthesized soundscapes and AI-assisted theme illustrations, are either original creations owned by the Developer or used under appropriate royalty-free licenses.
+
+## 5. Children’s Privacy
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
-## 5. Changes to This Privacy Policy
+## 6. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
-## 6. Contact Us
+## 7. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 {% raw %}
