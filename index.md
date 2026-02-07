@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for Hourglass
 
-**Last updated: February 04, 2026**
+**Last updated: February 07, 2026**
 
 This Privacy Policy describes how **Hourglass** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
 
@@ -17,14 +17,12 @@ We do not collect any personally identifiable information (PII) such as your nam
 We use the following third-party services which may collect data:
 
 *   **Google AdMob**: Used to display advertisements. AdMob may collect and use your device's **Advertising ID** to serve personalized ads.
-*   **Firebase Analytics**: Used to analyze user behavior and improve the App. It collects usage data and events (e.g., which screens you visit).
-*   **Firebase Crashlytics**: Used to collect crash reports to help us fix bugs. This includes stack traces and device state information at the time of the crash.
-*   **Firebase Authentication**: Used to manage anonymous user sessions or sign-ins for syncing data across devices.
+*   **RevenueCat**: Used to manage in-app subscriptions and theme purchases. RevenueCat collects an anonymous **App User ID** to track your purchase status and provide features like "New User Rewards" (ad-free duration). It helps us ensure your purchases are available across your devices.
 
 Links to the privacy policies of third-party service providers used by the App:
 *   [Google Play Services](https://policies.google.com/privacy)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Firebase](https://firebase.google.com/support/privacy)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 ## 2. App Permissions
 
@@ -34,17 +32,16 @@ The App requires specific permissions to function correctly:
 *   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set.
 *   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert in the notification bar.
 *   **USE_FULL_SCREEN_INTENT**: Required to show the full-screen alarm interface when the timer finishes while your device is locked.
-*   **INTERNET / ACCESS_NETWORK_STATE**: Required for downloading themes, syncing data, and displaying advertisements.
+*   **INTERNET / ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), and displaying advertisements.
 
 ## 3. Data Safety (Google Play)
 
 For the purpose of Google Play's Data Safety section:
 
-*   **Data Shared**: Yes (Device IDs for Advertising/Analytics).
+*   **Data Shared**: Yes (Device IDs for Advertising and Purchase Management).
 *   **Data Collected**:
-    *   **Device or other IDs**: Advertising ID (AdMob), Android ID.
-    *   **App Activity**: Page views, interactions (Analytics).
-    *   **App Info and Performance**: Crash logs, diagnostics (Crashlytics).
+    *   **Device or other IDs**: Advertising ID (AdMob), Anonymous RevenueCat ID.
+    *   **Purchase History**: Information about themes or pro subscriptions purchased (managed by RevenueCat).
 
 ## 4. Children’s Privacy
 
