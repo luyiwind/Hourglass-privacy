@@ -3,11 +3,11 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy for Hourglass
+# Privacy Policy for AuraSand
 
 **Last updated: February 07, 2026**
 
-This Privacy Policy describes how **Hourglass** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
+This Privacy Policy describes how **AuraSand** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
 
 ## 1. Information Collection and Use
 
@@ -18,6 +18,7 @@ We use the following third-party services which may collect data:
 
 *   **Google AdMob**: Used to display advertisements. AdMob may collect and use your device's **Advertising ID** to serve personalized ads.
 *   **RevenueCat**: Used to manage in-app subscriptions and theme purchases. RevenueCat collects an anonymous **App User ID** to track your purchase status and provide features like "New User Rewards" (ad-free duration). It helps us ensure your purchases are available across your devices.
+*   **User Support and Feedback**: If you choose to contact us for support or feedback, we will receive your email address and any other information you choose to provide. To help us resolve technical issues, the feedback email may automatically include basic anonymous technical details such as your App Version, Device Model, and OS Version.
 
 Links to the privacy policies of third-party service providers used by the App:
 *   [Google Play Services](https://policies.google.com/privacy)
