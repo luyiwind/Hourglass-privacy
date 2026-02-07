@@ -33,6 +33,7 @@ The App requires specific permissions to function correctly:
 *   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert in the notification bar.
 *   **USE_FULL_SCREEN_INTENT**: Required to show the full-screen alarm interface when the timer finishes while your device is locked.
 *   **INTERNET / ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), and displaying advertisements.
+*   **REQUEST_IGNORE_BATTERY_OPTIMIZATIONS**: Required to ensure the timer continues to run accurately in the background, preventing the system from killing the app process during long timing sessions.
 
 ## 3. Data Safety (Google Play)
 
