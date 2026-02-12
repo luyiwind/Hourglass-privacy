@@ -25,14 +25,14 @@ Links to the privacy policies of third-party service providers used by the App:
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en )
 *   [RevenueCat](https://www.revenuecat.com/privacy )
 
-## 2. App Permissions
+## 2. App Permissions (Google Play)
 
 The App requires specific permissions to function correctly:
 
 *   **BILLING**: Required to facilitate in-app purchases and subscriptions through Google Play Billing.
 *   **INTERNET & ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), displaying advertisements, and checking network connectivity status.
 *   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert in the notification bar.
-*   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set (automatically granted on Android 12+).
+*   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set.
 *   **FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK**: Required to keep the timer running and play the alarm sound even when the app is in the background or the screen is locked.
 *   **USE_FULL_SCREEN_INTENT**: Required to show the full-screen alarm interface when the timer finishes while your device is locked.
 *   **WAKE_LOCK**: Required to keep the CPU awake briefly during alarm events to ensure reliable notification delivery.
