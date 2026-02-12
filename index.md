@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for AuraSand
 
-**Last updated: February 07, 2026**
+**Last updated: February 12, 2026**
 
 This Privacy Policy describes how **AuraSand** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
 
@@ -21,19 +21,21 @@ We use the following third-party services which may collect data:
 *   **User Support and Feedback**: If you choose to contact us for support or feedback, we will receive your email address and any other information you choose to provide. To help us resolve technical issues, the feedback email may automatically include basic anonymous technical details such as your App Version, Device Model, and OS Version.
 
 Links to the privacy policies of third-party service providers used by the App:
-*   [Google Play Services](https://policies.google.com/privacy)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+*   [Google Play Services](https://policies.google.com/privacy )
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en )
+*   [RevenueCat](https://www.revenuecat.com/privacy )
 
 ## 2. App Permissions
 
 The App requires specific permissions to function correctly:
 
-*   **FOREGROUND_SERVICE (Media Playback)**: Required to keep the timer running and play the alarm sound even when the app is in the background or the screen is locked.
-*   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set.
+*   **BILLING (com.android.vending.BILLING)**: Required to facilitate in-app purchases and subscriptions through Google Play Billing.
+*   **INTERNET & ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), displaying advertisements, and checking network connectivity status.
 *   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert in the notification bar.
+*   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set (automatically granted on Android 12+).
+*   **FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK**: Required to keep the timer running and play the alarm sound even when the app is in the background or the screen is locked.
 *   **USE_FULL_SCREEN_INTENT**: Required to show the full-screen alarm interface when the timer finishes while your device is locked.
-*   **INTERNET / ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), and displaying advertisements.
+*   **WAKE_LOCK**: Required to keep the CPU awake briefly during alarm events to ensure reliable notification delivery.
 *   **REQUEST_IGNORE_BATTERY_OPTIMIZATIONS**: Required to ensure the timer continues to run accurately in the background, preventing the system from killing the app process during long timing sessions.
 
 ## 3. Data Safety (Google Play)
@@ -49,7 +51,7 @@ For the purpose of Google Play's Data Safety section:
 
 All visual and audio assets within the App, including but not limited to synthesized soundscapes and AI-assisted theme illustrations, are either original creations owned by the Developer or used under appropriate royalty-free licenses.
 
-## 5. Children’s Privacy
+## 5. Children's Privacy
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
 
