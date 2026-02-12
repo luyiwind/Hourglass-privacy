@@ -29,7 +29,7 @@ Links to the privacy policies of third-party service providers used by the App:
 
 The App requires specific permissions to function correctly:
 
-*   **BILLING (com.android.vending.BILLING)**: Required to facilitate in-app purchases and subscriptions through Google Play Billing.
+*   **BILLING**: Required to facilitate in-app purchases and subscriptions through Google Play Billing.
 *   **INTERNET & ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), displaying advertisements, and checking network connectivity status.
 *   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert in the notification bar.
 *   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set (automatically granted on Android 12+).
