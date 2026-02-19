@@ -36,7 +36,6 @@ The App requires specific permissions to function correctly:
 *   **FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK**: Required to keep the timer running and play the alarm sound even when the app is in the background or the screen is locked.
 *   **USE_FULL_SCREEN_INTENT**: Required to show the full-screen alarm interface when the timer finishes while your device is locked.
 *   **WAKE_LOCK**: Required to keep the CPU awake briefly during alarm events to ensure reliable notification delivery.
-*   **REQUEST_IGNORE_BATTERY_OPTIMIZATIONS**: Required to ensure the timer continues to run accurately in the background, preventing the system from killing the app process during long timing sessions.
 
 ## 3. Data Safety (Google Play)
 
