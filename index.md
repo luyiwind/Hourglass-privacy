@@ -52,7 +52,7 @@ All visual and audio assets within the App, including but not limited to synthes
 
 ## 5. Children's Privacy
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+While our App is suitable for users of all ages (rated 3+), we do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
 ## 6. Changes to This Privacy Policy
 
