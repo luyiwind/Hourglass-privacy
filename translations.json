@@ -12,7 +12,19 @@
     "customMusicPrompt": "Custom selected. Tap again to choose background music file.",
     "customSoundPrompt": "Custom selected. Tap again to choose notification sound file.",
     "sidePanelThemes": "Themes",
-    "sidePanelMusic": "Music"
+    "sidePanelMusic": "Music",
+    "guideTimerTitle": "Tap to Edit Time",
+    "guideTimerDesc": "Tap the digits to open the scroll wheel and drag to adjust minutes.",
+    "guidePlayTitle": "Start Focus",
+    "guidePlayDesc": "Tap here to start the timer and begin your focus session.",
+    "guideThemeTitle": "Theme Store",
+    "guideThemeDesc": "Explore various themes to customize your experience.",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "guideSettingsTitle": "Settings",
+    "guideSettingsDesc": "Configure sounds, notifications, and other preferences.",
+    "skip": "SKIP",
+    "musicNone": "None"
   },
   "zh": {
     "appName": "灵动沙漏",
@@ -27,7 +39,19 @@
     "customMusicPrompt": "已选择自定义。再次点击选择背景音乐文件。",
     "customSoundPrompt": "已选择自定义。再次点击选择通知音效文件。",
     "sidePanelThemes": "主题",
-    "sidePanelMusic": "音乐"
+    "sidePanelMusic": "音乐",
+    "guideTimerTitle": "点击编辑时间",
+    "guideTimerDesc": "点击数字打开滚轮并拖动以调整分钟数。",
+    "guidePlayTitle": "开始专注",
+    "guidePlayDesc": "点击此处开启计时，开始你的专注时刻。",
+    "guideThemeTitle": "主题商店",
+    "guideThemeDesc": "探索海量精美主题，打造个性化体验。",
+    "guideMusicTitle": "背景音乐",
+    "guideMusicDesc": "选择多种白噪音或音乐，助你进入沉浸状态。",
+    "guideSettingsTitle": "设置",
+    "guideSettingsDesc": "配置音效、通知以及更多个性化选项。",
+    "skip": "跳过",
+    "musicNone": "无"
   },
   "zh_Hant": {
     "appName": "靈動沙漏",
@@ -121,7 +145,19 @@
     "customMusicPrompt": "已選擇自定義。再次點擊選擇背景音樂文件。",
     "customSoundPrompt": "已選擇自定義。再次點擊選擇通知音效文件。",
     "sidePanelThemes": "主題",
-    "sidePanelMusic": "音樂"
+    "sidePanelMusic": "音樂",
+    "guideTimerTitle": "點擊編輯時間",
+    "guideTimerDesc": "點擊數字打開滾輪並拖動以調整分鐘數。",
+    "guidePlayTitle": "開始專注",
+    "guidePlayDesc": "點擊此處開啟計時，開始你的專注時刻。",
+    "guideThemeTitle": "主題商店",
+    "guideThemeDesc": "探索海量精美主題，打造個性化體驗。",
+    "guideMusicTitle": "背景音樂",
+    "guideMusicDesc": "選擇多種白噪音或音樂，助你進入沉浸狀態。",
+    "guideSettingsTitle": "設置",
+    "guideSettingsDesc": "配置音效、通知以及更多個性化選項。",
+    "skip": "跳過",
+    "musicNone": "無"
   },
   "ko": {
     "appName": "Aura 모래시계",
@@ -230,7 +266,10 @@
     "customMusicPrompt": "커스텀이 선택되었습니다. 다시 탭하여 배경 음악 파일을 선택하세요.",
     "customSoundPrompt": "커스텀이 선택되었습니다. 다시 탭하여 알림음 파일을 선택하세요.",
     "sidePanelThemes": "테마",
-    "sidePanelMusic": "음악"
+    "sidePanelMusic": "음악",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "없음"
   },
   "ja": {
     "appName": "Aura砂時計",
@@ -339,7 +378,10 @@
     "customMusicPrompt": "カスタムが選択されました。もう一度タップしてBGMファイルを選択してください。",
     "customSoundPrompt": "カスタムが選択されました。もう一度タップして通知音ファイルを選択してください。",
     "sidePanelThemes": "テーマ",
-    "sidePanelMusic": "音楽"
+    "sidePanelMusic": "音楽",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "なし"
   },
   "es": {
     "appName": "Aura Reloj de Arena",
@@ -448,7 +490,10 @@
     "customMusicPrompt": "Personalizado seleccionado. Toca de nuevo para elegir el archivo de música de fondo.",
     "customSoundPrompt": "Personalizado seleccionado. Toca de nuevo para elegir el archivo de sonido de notificación.",
     "sidePanelThemes": "Temas",
-    "sidePanelMusic": "Música"
+    "sidePanelMusic": "Música",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "Ninguno"
   },
   "fr": {
     "appName": "Aura Sablier",
@@ -557,7 +602,10 @@
     "customMusicPrompt": "Personnalisé sélectionné. Appuyez à nouveau pour choisir la musique de fond.",
     "customSoundPrompt": "Personnalisé sélectionné. Appuyez à nouveau pour choisir le son de notification.",
     "sidePanelThemes": "Thèmes",
-    "sidePanelMusic": "Musique"
+    "sidePanelMusic": "Musique",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "Aucun"
   },
   "de": {
     "appName": "Aura Sanduhr",
@@ -666,7 +714,10 @@
     "customMusicPrompt": "Benutzerdefiniert ausgewählt. Erneut tippen, um Hintergrundmusik auszuwählen.",
     "customSoundPrompt": "Benutzerdefiniert ausgewählt. Erneut tippen, um Benachrichtigungston auszuwählen.",
     "sidePanelThemes": "Themen",
-    "sidePanelMusic": "Musik"
+    "sidePanelMusic": "Musik",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "Keine"
   },
   "th": {
     "appName": "Aura นาฬิกาทราย",
@@ -775,7 +826,10 @@
     "customMusicPrompt": "เลือกแบบกำหนดเองแล้ว แตะอีกครั้งเพื่อเลือกไฟล์เพลงพื้นหลัง",
     "customSoundPrompt": "เลือกแบบกำหนดเองแล้ว แตะอีกครั้งเพื่อเลือกไฟล์เสียงแจ้งเตือน",
     "sidePanelThemes": "ธีม",
-    "sidePanelMusic": "เพลง"
+    "sidePanelMusic": "เพลง",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "ไม่มี"
   },
   "pt": {
     "appName": "Ampulheta Aura",
@@ -884,7 +938,10 @@
     "customMusicPrompt": "Personalizado selecionado. Toque novamente para escolher o arquivo de música de fondo.",
     "customSoundPrompt": "Personalizado selecionado. Toque novamente para escolher o arquivo de som de notificação.",
     "sidePanelThemes": "Temas",
-    "sidePanelMusic": "Música"
+    "sidePanelMusic": "Música",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "Nenhum"
   },
   "id": {
     "appName": "Aura Jam Pasir",
@@ -993,7 +1050,10 @@
     "customMusicPrompt": "Kustom dipilih. Ketuk lagi untuk memilih file musik latar.",
     "customSoundPrompt": "Kustom dipilih. Ketuk lagi untuk memilih file suara notifikasi.",
     "sidePanelThemes": "Tema",
-    "sidePanelMusic": "Musik"
+    "sidePanelMusic": "Musik",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "Tidak ada"
   },
   "ru": {
     "appName": "AuraSand",
@@ -1102,7 +1162,10 @@
     "customMusicPrompt": "Выбрано пользовательское. Нажмите еще раз, чтобы выбрать файл фоновой музыки.",
     "customSoundPrompt": "Выбрано пользовательское. Нажмите еще раз, чтобы выбрать файл звука уведомления.",
     "sidePanelThemes": "Темы",
-    "sidePanelMusic": "Музыка"
+    "sidePanelMusic": "Музыка",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "None"
   },
   "it": {
     "appName": "AuraSand",
@@ -1211,7 +1274,10 @@
     "customMusicPrompt": "Personalizzato selezionato. Tocca di nuovo per scegliere il file della musica di sottofondo.",
     "customSoundPrompt": "Personalizzato selezionato. Tocca di nuovo per scegliere il file del suono di notifica.",
     "sidePanelThemes": "Temi",
-    "sidePanelMusic": "Musica"
+    "sidePanelMusic": "Musica",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "None"
   },
   "vi": {
     "appName": "AuraSand",
@@ -1320,7 +1386,10 @@
     "customMusicPrompt": "Đã chọn tùy chỉnh. Nhấn lại để chọn tệp nhạc nền.",
     "customSoundPrompt": "Đã chọn tùy chỉnh. Nhấn lại để chọn tệp âm thanh thông báo.",
     "sidePanelThemes": "Chủ đề",
-    "sidePanelMusic": "Nhạc"
+    "sidePanelMusic": "Nhạc",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "None"
   },
   "ar": {
     "appName": "AuraSand",
@@ -1429,6 +1498,9 @@
     "customMusicPrompt": "تم اختيار مخصص. اضغط مرة أخرى لاختيار ملف موسيقى الخلفية.",
     "customSoundPrompt": "تم اختيار مخصص. اضغط مرة أخرى لاختيار ملف صوت الإشعار.",
     "sidePanelThemes": "السمات",
-    "sidePanelMusic": "الموسيقى"
+    "sidePanelMusic": "الموسيقى",
+    "guideMusicTitle": "Background Music",
+    "guideMusicDesc": "Choose from various ambient sounds to help you focus.",
+    "musicNone": "None"
   }
 }
