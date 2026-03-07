@@ -127,7 +127,7 @@
     "shareFocusMoment": "Share Focus Moment",
     "shareMyHourglass": "Share My Hourglass",
     "shareBonusSuccess": "Bonus! {minutes} mins Pro trial unlocked.",
-    "focusMinutes": "{minutes} FOCUS MINUTES",
+    "focusMinutesLabel": "{minutes} FOCUS MINUTES",
     "zenQuotes": "Time flows like stars.|Every grain counts.|Be present, stay focused.|Silence is the music of the soul.|One moment at a time."
   },
   "zh": {
@@ -258,7 +258,7 @@
     "shareFocusMoment": "分享专注时刻",
     "shareMyHourglass": "晒晒我的沙漏",
     "shareBonusSuccess": "分享成功！享受 {minutes} 分钟 Pro 功能",
-    "focusMinutes": "今日专注 {minutes} 分钟",
+    "focusMinutesLabel": "今日专注 {minutes} 分钟",
     "zenQuotes": "时光如沙，静水流深。|每一粒沙，都是专注的勋章。|心若止水，万物皆美。|活在当下，专注此刻。|沉默是灵魂的乐章。"
   },
   "zh_Hant": {
@@ -389,7 +389,7 @@
     "shareFocusMoment": "分享專注時刻",
     "shareMyHourglass": "曬曬我的沙漏",
     "shareBonusSuccess": "驚喜！已解鎖 {minutes} 分鐘高級版試用",
-    "focusMinutes": "專注了 {minutes} 分鐘",
+    "focusMinutesLabel": "專注了 {minutes} 分鐘",
     "zenQuotes": "時光如沙，靜水流深。|每一粒沙，都是專注的勳章。|心若止水，萬物皆美。|活在當下，專注此刻。|沉默是靈魂的樂章。"
   },
   "ko": {
@@ -520,7 +520,7 @@
     "shareFocusMoment": "집중하는 순간 공유하기",
     "shareMyHourglass": "내 모래시계 공유하기",
     "shareBonusSuccess": "보너스! {minutes}분 PRO 체험이 잠금 해제되었습니다.",
-    "focusMinutes": "{minutes}분 집중",
+    "focusMinutesLabel": "{minutes}분 집중",
     "zenQuotes": "시간은 별처럼 흐른다.|모든 알갱이가 중요합니다.|현재에 집중하고, 집중력을 유지하세요.|침묵은 영혼의 음악이다.|한 번에 한 순간씩."
   },
   "ja": {
@@ -651,7 +651,7 @@
     "shareFocusMoment": "集中の瞬間をシェア",
     "shareMyHourglass": "私の砂時計をシェア",
     "shareBonusSuccess": "ボーナス！{minutes}分間のPROお試しがアンロックされました。",
-    "focusMinutes": "{minutes} 分間集中",
+    "focusMinutesLabel": "{minutes} 分間集中",
     "zenQuotes": "時間は星のように流れる。|一粒一粒が大切です。|今に集中し、集中力を保つ。|沈黙は魂の音楽である。|一度に一瞬。"
   },
   "es": {
@@ -782,7 +782,7 @@
     "shareFocusMoment": "Compartir Momento de Enfoque",
     "shareMyHourglass": "Compartir Mi Reloj de Arena",
     "shareBonusSuccess": "¡Bono! Prueba Pro de {minutes} minutos desbloqueada.",
-    "focusMinutes": "{minutes} MINUTOS DE ENFOQUE",
+    "focusMinutesLabel": "{minutes} MINUTOS DE ENFOQUE",
     "zenQuotes": "El tiempo fluye como las estrellas.|Cada grano cuenta.|Mantente presente, mantente enfocado.|El silencio es la música del alma.|Un momento a la vez."
   },
   "fr": {
@@ -913,7 +913,7 @@
     "shareFocusMoment": "Partager le moment de concentration",
     "shareMyHourglass": "Partager mon sablier",
     "shareBonusSuccess": "Bonus ! Essai Pro de {minutes} minutes débloqué.",
-    "focusMinutes": "{minutes} MINUTES DE CONCENTRATION",
+    "focusMinutesLabel": "{minutes} MINUTES DE CONCENTRATION",
     "zenQuotes": "Le temps s'écoule comme les étoiles.|Chaque grain compte.|Sois présent, reste concentré.|Le silence est la musique de l'âme.|Un moment à la fois."
   },
   "de": {
@@ -1044,7 +1044,7 @@
     "shareFocusMoment": "Fokus-Moment teilen",
     "shareMyHourglass": "Meine Sanduhr teilen",
     "shareBonusSuccess": "Bonus! {minutes} Min. Pro-Testversion freigeschaltet.",
-    "focusMinutes": "{minutes} FOKUS-MINUTEN",
+    "focusMinutesLabel": "{minutes} FOKUS-MINUTEN",
     "zenQuotes": "Die Zeit fließt wie Sterne.|Jedes Korn zählt.|Sei präsent, bleib fokussiert.|Stille ist die Musik der Seele.|Einen Moment nach dem anderen."
   },
   "th": {
@@ -1175,7 +1175,7 @@
     "shareFocusMoment": "แบ่งปันช่วงเวลาแห่งสมาธิ",
     "shareMyHourglass": "แชร์นาฬิกาทรายของฉัน",
     "shareBonusSuccess": "โบนัส! ปลดล็อกการทดลองใช้ Pro {minutes} นาทีแล้ว",
-    "focusMinutes": "{minutes} นาทีแห่งสมาธิ",
+    "focusMinutesLabel": "{minutes} นาทีแห่งสมาธิ",
     "zenQuotes": "กาลเวลาไหลราวกับดวงดาว|ทุกเมล็ดมีความหมาย.|จงอยู่กับปัจจุบัน มีสมาธิ.|ความเงียบคือดนตรีแห่งจิตวิญญาณ.|ทีละช่วงเวลา."
   },
   "pt": {
@@ -1306,7 +1306,7 @@
     "shareFocusMoment": "Compartilhar Momento de Foco",
     "shareMyHourglass": "Compartilhar Meu Ampulheta",
     "shareBonusSuccess": "Bônus! Teste Pro de {minutes} minutos desbloqueado.",
-    "focusMinutes": "{minutes} MINUTOS DE FOCO",
+    "focusMinutesLabel": "{minutes} MINUTOS DE FOCO",
     "zenQuotes": "O tempo flui como as estrelas.|Cada grão conta.|Esteja presente, mantenha o foco.|O silêncio é a música da alma.|Um momento de cada vez."
   },
   "id": {
@@ -1437,7 +1437,7 @@
     "shareFocusMoment": "Bagikan Momen Fokus",
     "shareMyHourglass": "Bagikan Jam Pasir Saya",
     "shareBonusSuccess": "Bonus! Uji coba Pro {minutes} menit terbuka.",
-    "focusMinutes": "{minutes} MENIT FOKUS",
+    "focusMinutesLabel": "{minutes} MENIT FOKUS",
     "zenQuotes": "Waktu mengalir seperti bintang.|Setiap butir berarti.|Hadir, tetap fokus.|Keheningan adalah musik jiwa.|Satu per satu."
   },
   "ru": {
@@ -1568,7 +1568,7 @@
     "shareFocusMoment": "Поделиться моментом концентрации",
     "shareMyHourglass": "Поделиться моими песочными часами",
     "shareBonusSuccess": "Бонус! Разблокирована пробная версия Pro на {minutes} мин.",
-    "focusMinutes": "{minutes} МИН КОНЦЕНТРАЦИИ",
+    "focusMinutesLabel": "{minutes} МИН КОНЦЕНТРАЦИИ",
     "zenQuotes": "Время течет как звезды.|Каждое зернышко на счету.|Будьте здесь и сейчас, оставайтесь сосредоточенными.|Тишина — это музыка души.|Одно мгновение за раз."
   },
   "it": {
@@ -1699,7 +1699,7 @@
     "shareFocusMoment": "Condividi il momento di concentrazione",
     "shareMyHourglass": "Condividi la mia clessidra",
     "shareBonusSuccess": "Bonus! Prova Pro di {minutes} minuti sbloccata.",
-    "focusMinutes": "{minutes} MINUTI DI CONCENTRAZIONE",
+    "focusMinutesLabel": "{minutes} MINUTI DI CONCENTRAZIONE",
     "zenQuotes": "Il tempo scorre come le stelle.|Ogni granello conta.|Sii presente, rimani concentrato.|Il silenzio è la musica dell'anima.|Un momento alla volta."
   },
   "vi": {
@@ -1830,7 +1830,7 @@
     "shareFocusMoment": "Chia sẻ khoảnh khắc tập trung",
     "shareMyHourglass": "Chia sẻ đồng hồ cát của tôi",
     "shareBonusSuccess": "Thưởng! Đã mở khóa dùng thử Pro {minutes} phút.",
-    "focusMinutes": "{minutes} PHÚT TẬP TRUNG",
+    "focusMinutesLabel": "{minutes} PHÚT TẬP TRUNG",
     "zenQuotes": "Thời gian trôi như những vì sao.|Mỗi hạt đều có giá trị.|Hãy hiện diện, giữ vững sự tập trung.|Sự im lặng là âm nhạc của tâm hồn.|Từng khoảnh khắc một."
   },
   "ar": {
@@ -1961,7 +1961,7 @@
     "shareFocusMoment": "مشاركة لحظة التركيز",
     "shareMyHourglass": "مشاركة ساعتي الرملية",
     "shareBonusSuccess": "مكافأة! تم فتح فترة تجريبية Pro لمدة {minutes} دقيقة.",
-    "focusMinutes": "{minutes} دقيقة من التركيز",
+    "focusMinutesLabel": "{minutes} دقيقة من التركيز",
     "zenQuotes": "الوقت يتدفق كالنجوم.|كل حبة لها أهميتها.|كن حاضراً، ابقَ مركزاً.|الصمت هو موسيقى الروح.|لحظة واحدة في كل مرة."
   },
   "hi": {
@@ -2092,7 +2092,7 @@
     "shareFocusMoment": "फ़ोकस का क्षण साझा करें",
     "shareMyHourglass": "अपना ऑवरग्लास साझा करें",
     "shareBonusSuccess": "बोनस! {minutes} मिनट का प्रो ट्रायल खुला।",
-    "focusMinutes": "{minutes} फ़ोकस मिनट",
+    "focusMinutesLabel": "{minutes} फ़ोकस मिनट",
     "zenQuotes": "समय तारों की तरह बहता है।|हर दाना मायने रखता है।|उपस्थित रहें, केंद्रित रहें।|मौन आत्मा का संगीत है।|एक समय में एक पल।"
   },
   "tr": {
@@ -2223,7 +2223,7 @@
     "shareFocusMoment": "Odaklanma Anını Paylaş",
     "shareMyHourglass": "Kum Saatimi Paylaş",
     "shareBonusSuccess": "Bonus! {minutes} dakikalık Pro deneme kiliti açıldı.",
-    "focusMinutes": "{minutes} ODAKLANMA DAKİKASI",
+    "focusMinutesLabel": "{minutes} ODAKLANMA DAKİKASI",
     "zenQuotes": "Zaman yıldızlar gibi akar.|Her tane önemlidir.|Anı yaşa, odaklan.|Sessizlik ruhun müziğidir.|Bir seferde bir an."
   },
   "nl": {
@@ -2354,7 +2354,7 @@
     "shareFocusMoment": "Deel focusmoment",
     "shareMyHourglass": "Deel mijn zandloper",
     "shareBonusSuccess": "Bonus! {minutes} minuten Pro-proefversie ontgrendeld.",
-    "focusMinutes": "{minutes} FOCUSMINUTEN",
+    "focusMinutesLabel": "{minutes} FOCUSMINUTEN",
     "zenQuotes": "De tijd stroomt als sterren.|Elk graan telt.|Wees aanwezig, blijf gefocust.|Stilte is de muziek van de ziel.|Eén moment tegelijk."
   },
   "pl": {
@@ -2485,7 +2485,7 @@
     "shareFocusMoment": "Udostępnij moment skupienia",
     "shareMyHourglass": "Udostępnij moją klepsydrę",
     "shareBonusSuccess": "Bonus! Odblokowano {minutes} minut próbnych Pro.",
-    "focusMinutes": "{minutes} MINUT SKUPIENIA",
+    "focusMinutesLabel": "{minutes} MINUT SKUPIENIA",
     "zenQuotes": "Czas płynie jak gwiazdy.|Liczy się każde ziarno.|Bądź obecny, pozostań skupiony.|Cisza to muzyka duszy.|Jeden moment na raz."
   },
   "sv": {
@@ -2616,7 +2616,7 @@
     "shareFocusMoment": "Dela fokusögonblick",
     "shareMyHourglass": "Dela mitt timglas",
     "shareBonusSuccess": "Bonus! {minutes} minuter Pro-testversion upplåst.",
-    "focusMinutes": "{minutes} FOKUSMINUTER",
+    "focusMinutesLabel": "{minutes} FOKUSMINUTER",
     "zenQuotes": "Tiden flyter som stjärnor.|Varje korn räknas.|Var närvarande, håll fokus.|Tystnad är själens musik.|Ett ögonblick i sänder."
   },
   "fil": {
@@ -2747,7 +2747,7 @@
     "shareFocusMoment": "Ibahagi ang Focus Moment",
     "shareMyHourglass": "Ibahagi ang Aking Hourglass",
     "shareBonusSuccess": "Bonus! Na-unlock ang {minutes} minutong Pro trial.",
-    "focusMinutes": "{minutes} FOCUS MINUTES",
+    "focusMinutesLabel": "{minutes} FOCUS MINUTES",
     "zenQuotes": "Ang oras ay dumadaloy tulad ng mga bituin.|Bawat butil ay mahalaga.|Manatili sa kasalukuyan, manatiling nakatuon.|Ang katahimikan ay musika ng kaluluwa.|Isang sandali sa isang pagkakataon."
   }
 }
