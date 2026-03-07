@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for AuraSand
 
-**Last updated: February 12, 2026**
+**Last updated: March 7, 2026**
 
 This Privacy Policy describes how **AuraSand** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
 
@@ -18,7 +18,9 @@ We use the following third-party services which may collect data:
 
 *   **Google AdMob**: Used to display advertisements. AdMob may collect and use your device's **Advertising ID** to serve personalized ads.
 *   **RevenueCat**: Used to manage in-app subscriptions and theme purchases. RevenueCat collects an anonymous **App User ID** to track your purchase status and provide features like "New User Rewards" (ad-free duration). It helps us ensure your purchases are available across your devices.
-*   **User Support and Feedback**: If you choose to contact us for support or feedback, we will receive your email address and any other information you choose to provide. To help us resolve technical issues, the feedback email may automatically include basic anonymous technical details such as your App Version, Device Model, and OS Version.
+*   **Technical Optimization and Feedback**: 
+    *   **Local Optimization**: The App may monitor basic device state information locally (such as **Battery Level**) to optimize performance (e.g., automatically disabling complex animations when the battery is low). This information remains on your device and is not uploaded to our servers.
+    *   **User Feedback**: If you choose to contact us for support or feedback, we will receive your email address and any other information you choose to provide. To help us resolve technical issues, the feedback email may automatically include basic anonymous technical details such as your App Version, Device Model, and OS Version.
 
 Links to the privacy policies of third-party service providers used by the App:
 *   [Google Play Services](https://policies.google.com/privacy )
