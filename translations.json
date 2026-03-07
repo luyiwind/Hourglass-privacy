@@ -121,7 +121,13 @@
     "progressChannelName": "Timer Progress",
     "progressChannelDesc": "Shows countdown progress",
     "lowPowerModeEnabled": "🔋 Low battery, animations disabled to save power",
-    "lowPowerModeDisabled": "⚡ Power restored, animations enabled"
+    "lowPowerModeDisabled": "⚡ Power restored, animations enabled",
+    "sharePosterTagline": "Stay focused, live in the present.",
+    "sharePosterSearchPrompt": "Search '{appName}' on Google Play",
+    "shareFocusMoment": "Share Focus Moment",
+    "shareMyHourglass": "Share My Hourglass",
+    "shareBonusSuccess": "Bonus! {minutes} mins Pro trial unlocked.",
+    "focusMinutes": "{minutes} FOCUS MINUTES"
   },
   "zh_Hant": {
     "appName": "靈動沙漏",
@@ -245,7 +251,13 @@
     "progressChannelName": "計時進度",
     "progressChannelDesc": "顯示剩餘時間進度",
     "lowPowerModeEnabled": "🔋 電量過低，已自動關閉動畫以節省電量",
-    "lowPowerModeDisabled": "⚡ 電量恢復，動畫已自動開啟"
+    "lowPowerModeDisabled": "⚡ 電量恢復，動畫已自動開啟",
+    "sharePosterTagline": "保持專注，活在當下",
+    "sharePosterSearchPrompt": "在 Google Play 搜尋「{appName}」",
+    "shareFocusMoment": "分享專注時刻",
+    "shareMyHourglass": "曬曬我的沙漏",
+    "shareBonusSuccess": "驚喜！已解鎖 {minutes} 分鐘高級版試用",
+    "focusMinutes": "專注了 {minutes} 分鐘"
   },
   "ko": {
     "appName": "Aura 모래시계",
@@ -369,7 +381,13 @@
     "progressChannelName": "타이머 진행",
     "progressChannelDesc": "타이머 남은 시간 표시",
     "lowPowerModeEnabled": "🔋 배터리가 부족합니다. 절전을 위해 애니메이션을 중지했습니다.",
-    "lowPowerModeDisabled": "⚡ 전원이 복구되었습니다. 애니메이션을 다시 시작합니다."
+    "lowPowerModeDisabled": "⚡ 전원이 복구되었습니다. 애니메이션을 다시 시작합니다.",
+    "sharePosterTagline": "집중을 유지하고 현재를 즐기세요.",
+    "sharePosterSearchPrompt": "Google Play에서 '{appName}' 검색",
+    "shareFocusMoment": "집중하는 순간 공유하기",
+    "shareMyHourglass": "내 모래시계 공유하기",
+    "shareBonusSuccess": "보너스! {minutes}분 PRO 체험이 잠금 해제되었습니다.",
+    "focusMinutes": "{minutes}분 집중"
   },
   "ja": {
     "appName": "Aura砂時計",
@@ -493,7 +511,13 @@
     "progressChannelName": "タイマー進捗",
     "progressChannelDesc": "タイマーの残り時間を表示",
     "lowPowerModeEnabled": "🔋 バッテリー残量が少なくなっています。節電のためアニメーションを停止しました。",
-    "lowPowerModeDisabled": "⚡ バッテリーが回復しました。アニメーションを再開します。"
+    "lowPowerModeDisabled": "⚡ バッテリーが回復しました。アニメーションを再開します。",
+    "sharePosterTagline": "集中を維持し、今を生きる。",
+    "sharePosterSearchPrompt": "Google Playで「{appName}」を検索",
+    "shareFocusMoment": "集中の瞬間をシェア",
+    "shareMyHourglass": "私の砂時計をシェア",
+    "shareBonusSuccess": "ボーナス！{minutes}分間のPROお試しがアンロックされました。",
+    "focusMinutes": "{minutes} 分間集中"
   },
   "es": {
     "appName": "Aura Reloj de Arena",
@@ -617,7 +641,13 @@
     "progressChannelName": "Progreso del temporizador",
     "progressChannelDesc": "Muestra el progreso de la cuenta atrás",
     "lowPowerModeEnabled": "🔋 Batería baja, animaciones desactivadas para ahorrar energía",
-    "lowPowerModeDisabled": "⚡ Energía restaurada, animaciones activadas"
+    "lowPowerModeDisabled": "⚡ Energía restaurada, animaciones activadas",
+    "sharePosterTagline": "Mantente enfocado, vive el presente.",
+    "sharePosterSearchPrompt": "Busca '{appName}' en Google Play",
+    "shareFocusMoment": "Compartir Momento de Enfoque",
+    "shareMyHourglass": "Compartir Mi Reloj de Arena",
+    "shareBonusSuccess": "¡Bono! Prueba Pro de {minutes} minutos desbloqueada.",
+    "focusMinutes": "{minutes} MINUTOS DE ENFOQUE"
   },
   "fr": {
     "appName": "Aura Sablier",
@@ -741,7 +771,13 @@
     "progressChannelName": "Progreso du Minuteur",
     "progressChannelDesc": "Affiche le compte à rebours",
     "lowPowerModeEnabled": "🔋 Batterie faible, animations désactivées pour économiser l'énergie",
-    "lowPowerModeDisabled": "⚡ Énergie restaurée, animations activées"
+    "lowPowerModeDisabled": "⚡ Énergie restaurée, animations activées",
+    "sharePosterTagline": "Restez concentré, vivez l'instant présent.",
+    "sharePosterSearchPrompt": "Recherchez '{appName}' sur Google Play",
+    "shareFocusMoment": "Partager le moment de concentration",
+    "shareMyHourglass": "Partager mon sablier",
+    "shareBonusSuccess": "Bonus ! Essai Pro de {minutes} minutes débloqué.",
+    "focusMinutes": "{minutes} MINUTES DE CONCENTRATION"
   },
   "de": {
     "appName": "Aura Sanduhr",
@@ -865,7 +901,13 @@
     "progressChannelName": "Timer-Fortschritt",
     "progressChannelDesc": "Zeigt den Timer-Countdown-Fortschritt an",
     "lowPowerModeEnabled": "🔋 Akku schwach, Animationen zur Energieeinsparung deaktiviert",
-    "lowPowerModeDisabled": "⚡ Strom wiederhergestellt, Animationen aktiviert"
+    "lowPowerModeDisabled": "⚡ Strom wiederhergestellt, Animationen aktiviert",
+    "sharePosterTagline": "Bleib fokussiert, lebe im Jetzt.",
+    "sharePosterSearchPrompt": "Suche '{appName}' bei Google Play",
+    "shareFocusMoment": "Fokus-Moment teilen",
+    "shareMyHourglass": "Meine Sanduhr teilen",
+    "shareBonusSuccess": "Bonus! {minutes} Min. Pro-Testversion freigeschaltet.",
+    "focusMinutes": "{minutes} FOKUS-MINUTEN"
   },
   "th": {
     "appName": "Aura นาฬิกาทราย",
@@ -989,7 +1031,13 @@
     "progressChannelName": "ความคืบหน้าการจับเวลา",
     "progressChannelDesc": "แสดงความคืบหน้าการนับถอยหลัง",
     "lowPowerModeEnabled": "🔋 แบตเตอรี่ต่ำ ปิดแอนิเมชันเพื่อประหยัดพลังงาน",
-    "lowPowerModeDisabled": "⚡ พลังงานกลับมาแล้ว เปิดแอนิเมชันอีกครั้ง"
+    "lowPowerModeDisabled": "⚡ พลังงานกลับมาแล้ว เปิดแอนิเมชันอีกครั้ง",
+    "sharePosterTagline": "จดจ่ออยู่กับปัจจุบัน",
+    "sharePosterSearchPrompt": "ค้นหา '{appName}' บน Google Play",
+    "shareFocusMoment": "แบ่งปันช่วงเวลาแห่งสมาธิ",
+    "shareMyHourglass": "แชร์นาฬิกาทรายของฉัน",
+    "shareBonusSuccess": "โบนัส! ปลดล็อกการทดลองใช้ Pro {minutes} นาทีแล้ว",
+    "focusMinutes": "{minutes} นาทีแห่งสมาธิ"
   },
   "pt": {
     "appName": "Ampulheta Aura",
@@ -1113,7 +1161,13 @@
     "progressChannelName": "Progresso do Timer",
     "progressChannelDesc": "Mostra o progresso da contagem regressiva",
     "lowPowerModeEnabled": "🔋 Bateria baixa, animações desativadas para economizar energia",
-    "lowPowerModeDisabled": "⚡ Energia restaurada, animações ativadas"
+    "lowPowerModeDisabled": "⚡ Energia restaurada, animações ativadas",
+    "sharePosterTagline": "Mantenha o foco, viva o presente.",
+    "sharePosterSearchPrompt": "Pesquise '{appName}' no Google Play",
+    "shareFocusMoment": "Compartilhar Momento de Foco",
+    "shareMyHourglass": "Compartilhar Meu Ampulheta",
+    "shareBonusSuccess": "Bônus! Teste Pro de {minutes} minutos desbloqueado.",
+    "focusMinutes": "{minutes} MINUTOS DE FOCO"
   },
   "id": {
     "appName": "Aura Jam Pasir",
@@ -1237,7 +1291,13 @@
     "progressChannelName": "Kemajuan Timer",
     "progressChannelDesc": "Menampilkan kemajuan hitung mundur",
     "lowPowerModeEnabled": "🔋 Baterai lemah, animasi dinonaktifkan untuk menghemat daya",
-    "lowPowerModeDisabled": "⚡ Daya pulih, animasi diaktifkan"
+    "lowPowerModeDisabled": "⚡ Daya pulih, animasi diaktifkan",
+    "sharePosterTagline": "Tetap fokus, hidup di saat ini.",
+    "sharePosterSearchPrompt": "Cari '{appName}' di Google Play",
+    "shareFocusMoment": "Bagikan Momen Fokus",
+    "shareMyHourglass": "Bagikan Jam Pasir Saya",
+    "shareBonusSuccess": "Bonus! Uji coba Pro {minutes} menit terbuka.",
+    "focusMinutes": "{minutes} MENIT FOKUS"
   },
   "ru": {
     "appName": "AuraSand",
@@ -1361,7 +1421,13 @@
     "progressChannelName": "Прогресс таймера",
     "progressChannelDesc": "Показывает обратный отсчет",
     "lowPowerModeEnabled": "🔋 Низкий заряд, анимация отключена для экономии",
-    "lowPowerModeDisabled": "⚡ Питание восстановлено, анимация включена"
+    "lowPowerModeDisabled": "⚡ Питание восстановлено, анимация включена",
+    "sharePosterTagline": "Оставайтесь сосредоточенными, живите настоящим.",
+    "sharePosterSearchPrompt": "Найдите '{appName}' в Google Play",
+    "shareFocusMoment": "Поделиться моментом концентрации",
+    "shareMyHourglass": "Поделиться моими песочными часами",
+    "shareBonusSuccess": "Бонус! Разблокирована пробная версия Pro на {minutes} мин.",
+    "focusMinutes": "{minutes} МИН КОНЦЕНТРАЦИИ"
   },
   "it": {
     "appName": "AuraSand",
@@ -1485,7 +1551,13 @@
     "progressChannelName": "Progresso timer",
     "progressChannelDesc": "Mostra il conto alla rovescia",
     "lowPowerModeEnabled": "🔋 Batteria scarica, animazioni disabilitate per risparmio",
-    "lowPowerModeDisabled": "⚡ Alimentazione ripristinata, animazioni abilitate"
+    "lowPowerModeDisabled": "⚡ Alimentazione ripristinata, animazioni abilitate",
+    "sharePosterTagline": "Resta concentrato, vivi il presente.",
+    "sharePosterSearchPrompt": "Cerca '{appName}' su Google Play",
+    "shareFocusMoment": "Condividi il momento di concentrazione",
+    "shareMyHourglass": "Condividi la mia clessidra",
+    "shareBonusSuccess": "Bonus! Prova Pro di {minutes} minuti sbloccata.",
+    "focusMinutes": "{minutes} MINUTI DI CONCENTRAZIONE"
   },
   "vi": {
     "appName": "AuraSand",
@@ -1609,7 +1681,13 @@
     "progressChannelName": "Tiến trình đếm ngược",
     "progressChannelDesc": "Hiển thị đếm ngược thời gian còn lại",
     "lowPowerModeEnabled": "🔋 Pin yếu, đã tắt hoạt ảnh để tiết kiệm năng lượng",
-    "lowPowerModeDisabled": "⚡ Đã kết nối nguồn điện, đã bật lại hoạt ảnh"
+    "lowPowerModeDisabled": "⚡ Đã kết nối nguồn điện, đã bật lại hoạt ảnh",
+    "sharePosterTagline": "Giữ tập trung, sống cho hiện tại.",
+    "sharePosterSearchPrompt": "Tìm kiếm '{appName}' trên Google Play",
+    "shareFocusMoment": "Chia sẻ khoảnh khắc tập trung",
+    "shareMyHourglass": "Chia sẻ đồng hồ cát của tôi",
+    "shareBonusSuccess": "Thưởng! Đã mở khóa dùng thử Pro {minutes} phút.",
+    "focusMinutes": "{minutes} PHÚT TẬP TRUNG"
   },
   "ar": {
     "appName": "AuraSand",
@@ -1733,7 +1811,13 @@
     "progressChannelName": "تقدم المؤقت",
     "progressChannelDesc": "يعرض العد التنازلي للوقت المتبقي",
     "lowPowerModeEnabled": "🔋 البطارية منخفضة، تم تعطيل الرسوم المتحركة للتوفير",
-    "lowPowerModeDisabled": "⚡ تم توصيل الطاقة، تم تفعيل الرسوم المتحركة"
+    "lowPowerModeDisabled": "⚡ تم توصيل الطاقة، تم تفعيل الرسوم المتحركة",
+    "sharePosterTagline": "حافظ على تركيزك، وعش حاضرك.",
+    "sharePosterSearchPrompt": "ابحث عن '{appName}' على Google Play",
+    "shareFocusMoment": "مشاركة لحظة التركيز",
+    "shareMyHourglass": "مشاركة ساعتي الرملية",
+    "shareBonusSuccess": "مكافأة! تم فتح فترة تجريبية Pro لمدة {minutes} دقيقة.",
+    "focusMinutes": "{minutes} دقيقة من التركيز"
   },
   "hi": {
     "appName": "ऑराघड़ियाल",
@@ -1857,7 +1941,13 @@
     "progressChannelName": "टाइमर प्रगति",
     "progressChannelDesc": "उलटी गिनती प्रगति दिखाता है",
     "lowPowerModeEnabled": "🔋 बैटरी कम, एनिमेशन बंद किए गए",
-    "lowPowerModeDisabled": "⚡ पावर बहाल, एनिमेशन सक्षम"
+    "lowPowerModeDisabled": "⚡ पावर बहाल, एनिमेशन सक्षम",
+    "sharePosterTagline": "ध्यान केंद्रित रखें, वर्तमान में जिएं।",
+    "sharePosterSearchPrompt": "Google Play पर '{appName}' खोजें",
+    "shareFocusMoment": "फ़ोकस का क्षण साझा करें",
+    "shareMyHourglass": "अपना ऑवरग्लास साझा करें",
+    "shareBonusSuccess": "बोनस! {minutes} मिनट का प्रो ट्रायल खुला।",
+    "focusMinutes": "{minutes} फ़ोकस मिनट"
   },
   "tr": {
     "appName": "Aura Kum Saati",
@@ -1981,7 +2071,13 @@
     "progressChannelName": "Zamanlayıcı İlerlemesi",
     "progressChannelDesc": "Geri sayım ilerlemesini gösterir",
     "lowPowerModeEnabled": "🔋 Pil zayıf, güç tasarrufu için animasyonlar devre dışı",
-    "lowPowerModeDisabled": "⚡ Güç geri geldi, animasyonlar etkin"
+    "lowPowerModeDisabled": "⚡ Güç geri geldi, animasyonlar etkin",
+    "sharePosterTagline": "Odaklan, anı yaşa.",
+    "sharePosterSearchPrompt": "Google Play'de '{appName}' arayın",
+    "shareFocusMoment": "Odaklanma Anını Paylaş",
+    "shareMyHourglass": "Kum Saatimi Paylaş",
+    "shareBonusSuccess": "Bonus! {minutes} dakikalık Pro deneme kiliti açıldı.",
+    "focusMinutes": "{minutes} ODAKLANMA DAKİKASI"
   },
   "nl": {
     "appName": "Aura Zandloper",
@@ -2105,7 +2201,13 @@
     "progressChannelName": "Timer Voortgang",
     "progressChannelDesc": "Toont aftelvoortgang",
     "lowPowerModeEnabled": "🔋 Batterij laag, animaties uitgeschakeld om energie te besparen",
-    "lowPowerModeDisabled": "⚡ Voeding hersteld, animaties ingeschakeld"
+    "lowPowerModeDisabled": "⚡ Voeding hersteld, animaties ingeschakeld",
+    "sharePosterTagline": "Blijf gefocust, leef in het nu.",
+    "sharePosterSearchPrompt": "Zoek '{appName}' op Google Play",
+    "shareFocusMoment": "Deel focusmoment",
+    "shareMyHourglass": "Deel mijn zandloper",
+    "shareBonusSuccess": "Bonus! {minutes} minuten Pro-proefversie ontgrendeld.",
+    "focusMinutes": "{minutes} FOCUSMINUTEN"
   },
   "pl": {
     "appName": "Aura Klepsydra",
@@ -2229,7 +2331,13 @@
     "progressChannelName": "Postęp timera",
     "progressChannelDesc": "Pokazuje postęp odliczania",
     "lowPowerModeEnabled": "🔋 Niski poziom baterii, animacje wyłączone w celu oszczędzania energii",
-    "lowPowerModeDisabled": "⚡ Zasilanie przywrócone, animacje włączone"
+    "lowPowerModeDisabled": "⚡ Zasilanie przywrócone, animacje włączone",
+    "sharePosterTagline": "Bądź skupiony, żyj chwilą.",
+    "sharePosterSearchPrompt": "Szukaj '{appName}' w Google Play",
+    "shareFocusMoment": "Udostępnij moment skupienia",
+    "shareMyHourglass": "Udostępnij moją klepsydrę",
+    "shareBonusSuccess": "Bonus! Odblokowano {minutes} minut próbnych Pro.",
+    "focusMinutes": "{minutes} MINUT SKUPIENIA"
   },
   "sv": {
     "appName": "Aura Sandur",
@@ -2353,7 +2461,13 @@
     "progressChannelName": "Timer-framsteg",
     "progressChannelDesc": "Visar nedräkningsframsteg",
     "lowPowerModeEnabled": "🔋 Lågt batteri, animationer inaktiverade för att spara ström",
-    "lowPowerModeDisabled": "⚡ Ström återställd, animationer aktiverade"
+    "lowPowerModeDisabled": "⚡ Ström återställd, animationer aktiverade",
+    "sharePosterTagline": "Håll fokus, lev i nuet.",
+    "sharePosterSearchPrompt": "Sök efter '{appName}' på Google Play",
+    "shareFocusMoment": "Dela fokusögonblick",
+    "shareMyHourglass": "Dela mitt timglas",
+    "shareBonusSuccess": "Bonus! {minutes} minuter Pro-testversion upplåst.",
+    "focusMinutes": "{minutes} FOKUSMINUTER"
   },
   "fil": {
     "appName": "Aura Orasan",
@@ -2477,6 +2591,12 @@
     "progressChannelName": "Progress ng Timer",
     "progressChannelDesc": "Nagpapakita ng countdown progress",
     "lowPowerModeEnabled": "🔋 Mahina ang baterya, naka-disable ang animations para makatipid ng power",
-    "lowPowerModeDisabled": "⚡ Naibalik ang power, naka-enable ang animations"
+    "lowPowerModeDisabled": "⚡ Naibalik ang power, naka-enable ang animations",
+    "sharePosterTagline": "Manatiling nakatuon, mabuhay sa kasalukuyan.",
+    "sharePosterSearchPrompt": "Hanapin ang '{appName}' sa Google Play",
+    "shareFocusMoment": "Ibahagi ang Focus Moment",
+    "shareMyHourglass": "Ibahagi ang Aking Hourglass",
+    "shareBonusSuccess": "Bonus! Na-unlock ang {minutes} minutong Pro trial.",
+    "focusMinutes": "{minutes} FOCUS MINUTES"
   }
 }
