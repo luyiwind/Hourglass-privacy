@@ -128,7 +128,8 @@
     "shareMyHourglass": "Share My Hourglass",
     "shareBonusSuccess": "Bonus! {minutes} mins Pro trial unlocked.",
     "focusMinutesLabel": "{minutes} FOCUS MINUTES",
-    "zenQuotes": "Time flows like stars.|Every grain counts.|Be present, stay focused.|Silence is the music of the soul.|One moment at a time."
+    "zenQuotes": "Time flows like stars.|Every grain counts.|Be present, stay focused.|Silence is the music of the soul.|One moment at a time.",
+    "dailyShareBonusTip": "Share daily to get a premium feature trial"
   },
   "zh": {
     "appName": "灵动沙漏",
@@ -259,7 +260,8 @@
     "shareMyHourglass": "晒晒我的沙漏",
     "shareBonusSuccess": "分享成功！享受 {minutes} 分钟 Pro 功能",
     "focusMinutesLabel": "今日专注 {minutes} 分钟",
-    "zenQuotes": "时光如沙，静水流深。|每一粒沙，都是专注的勋章。|心若止水，万物皆美。|活在当下，专注此刻。|沉默是灵魂的乐章。"
+    "zenQuotes": "时光如沙，静水流深。|每一粒沙，都是专注的勋章。|心若止水，万物皆美。|活在当下，专注此刻。|沉默是灵魂的乐章。",
+    "dailyShareBonusTip": "每日分享赠送高级功能试用"
   },
   "zh_Hant": {
     "appName": "靈動沙漏",
@@ -390,7 +392,8 @@
     "shareMyHourglass": "曬曬我的沙漏",
     "shareBonusSuccess": "驚喜！已解鎖 {minutes} 分鐘高級版試用",
     "focusMinutesLabel": "專注了 {minutes} 分鐘",
-    "zenQuotes": "時光如沙，靜水流深。|每一粒沙，都是專注的勳章。|心若止水，萬物皆美。|活在當下，專注此刻。|沉默是靈魂的樂章。"
+    "zenQuotes": "時光如沙，靜水流深。|每一粒沙，都是專注的勳章。|心若止水，萬物皆美。|活在當下，專注此刻。|沉默是靈魂的樂章。",
+    "dailyShareBonusTip": "每日分享贈送高級功能試用"
   },
   "ko": {
     "appName": "Aura 모래시계",
@@ -521,7 +524,8 @@
     "shareMyHourglass": "내 모래시계 공유하기",
     "shareBonusSuccess": "보너스! {minutes}분 PRO 체험이 잠금 해제되었습니다.",
     "focusMinutesLabel": "{minutes}분 집중",
-    "zenQuotes": "시간은 별처럼 흐른다.|모든 알갱이가 중요합니다.|현재에 집중하고, 집중력을 유지하세요.|침묵은 영혼의 음악이다.|한 번에 한 순간씩."
+    "zenQuotes": "시간은 별처럼 흐른다.|모든 알갱이가 중요합니다.|현재에 집중하고, 집중력을 유지하세요.|침묵은 영혼의 음악이다.|한 번에 한 순간씩.",
+    "dailyShareBonusTip": "매일 공유하고 프리미엄 기능 체험판 받기"
   },
   "ja": {
     "appName": "Aura砂時計",
@@ -652,7 +656,8 @@
     "shareMyHourglass": "私の砂時計をシェア",
     "shareBonusSuccess": "ボーナス！{minutes}分間のPROお試しがアンロックされました。",
     "focusMinutesLabel": "{minutes} 分間集中",
-    "zenQuotes": "時間は星のように流れる。|一粒一粒が大切です。|今に集中し、集中力を保つ。|沈黙は魂の音楽である。|一度に一瞬。"
+    "zenQuotes": "時間は星のように流れる。|一粒一粒が大切です。|今に集中し、集中力を保つ。|沈黙は魂の音楽である。|一度に一瞬。",
+    "dailyShareBonusTip": "毎日シェアしてプレミアム機能の試用版をゲット"
   },
   "es": {
     "appName": "Aura Reloj de Arena",
@@ -783,7 +788,8 @@
     "shareMyHourglass": "Compartir Mi Reloj de Arena",
     "shareBonusSuccess": "¡Bono! Prueba Pro de {minutes} minutos desbloqueada.",
     "focusMinutesLabel": "{minutes} MINUTOS DE ENFOQUE",
-    "zenQuotes": "El tiempo fluye como las estrellas.|Cada grano cuenta.|Mantente presente, mantente enfocado.|El silencio es la música del alma.|Un momento a la vez."
+    "zenQuotes": "El tiempo fluye como las estrellas.|Cada grano cuenta.|Mantente presente, mantente enfocado.|El silencio es la música del alma.|Un momento a la vez.",
+    "dailyShareBonusTip": "Comparte diariamente para obtener una prueba de funciones premium"
   },
   "fr": {
     "appName": "Aura Sablier",
@@ -914,7 +920,8 @@
     "shareMyHourglass": "Partager mon sablier",
     "shareBonusSuccess": "Bonus ! Essai Pro de {minutes} minutes débloqué.",
     "focusMinutesLabel": "{minutes} MINUTES DE CONCENTRATION",
-    "zenQuotes": "Le temps s'écoule comme les étoiles.|Chaque grain compte.|Sois présent, reste concentré.|Le silence est la musique de l'âme.|Un moment à la fois."
+    "zenQuotes": "Le temps s'écoule comme les étoiles.|Chaque grain compte.|Sois présent, reste concentré.|Le silence est la musique de l'âme.|Un moment à la fois.",
+    "dailyShareBonusTip": "Partagez quotidiennement pour obtenir un essai des fonctionnalités premium"
   },
   "de": {
     "appName": "Aura Sanduhr",
@@ -1045,7 +1052,8 @@
     "shareMyHourglass": "Meine Sanduhr teilen",
     "shareBonusSuccess": "Bonus! {minutes} Min. Pro-Testversion freigeschaltet.",
     "focusMinutesLabel": "{minutes} FOKUS-MINUTEN",
-    "zenQuotes": "Die Zeit fließt wie Sterne.|Jedes Korn zählt.|Sei präsent, bleib fokussiert.|Stille ist die Musik der Seele.|Einen Moment nach dem anderen."
+    "zenQuotes": "Die Zeit fließt wie Sterne.|Jedes Korn zählt.|Sei präsent, bleib fokussiert.|Stille ist die Musik der Seele.|Einen Moment nach dem anderen.",
+    "dailyShareBonusTip": "Täglich teilen, um eine Testversion der Premium-Funktionen zu erhalten"
   },
   "th": {
     "appName": "Aura นาฬิกาทราย",
@@ -1176,7 +1184,8 @@
     "shareMyHourglass": "แชร์นาฬิกาทรายของฉัน",
     "shareBonusSuccess": "โบนัส! ปลดล็อกการทดลองใช้ Pro {minutes} นาทีแล้ว",
     "focusMinutesLabel": "{minutes} นาทีแห่งสมาธิ",
-    "zenQuotes": "กาลเวลาไหลราวกับดวงดาว|ทุกเมล็ดมีความหมาย.|จงอยู่กับปัจจุบัน มีสมาธิ.|ความเงียบคือดนตรีแห่งจิตวิญญาณ.|ทีละช่วงเวลา."
+    "zenQuotes": "กาลเวลาไหลราวกับดวงดาว|ทุกเมล็ดมีความหมาย.|จงอยู่กับปัจจุบัน มีสมาธิ.|ความเงียบคือดนตรีแห่งจิตวิญญาณ.|ทีละช่วงเวลา.",
+    "dailyShareBonusTip": "แชร์ทุกวันเพื่อรับรุ่นทดลองใช้ฟีเจอร์พรีเมียม"
   },
   "pt": {
     "appName": "Ampulheta Aura",
@@ -1307,7 +1316,8 @@
     "shareMyHourglass": "Compartilhar Meu Ampulheta",
     "shareBonusSuccess": "Bônus! Teste Pro de {minutes} minutos desbloqueado.",
     "focusMinutesLabel": "{minutes} MINUTOS DE FOCO",
-    "zenQuotes": "O tempo flui como as estrelas.|Cada grão conta.|Esteja presente, mantenha o foco.|O silêncio é a música da alma.|Um momento de cada vez."
+    "zenQuotes": "O tempo flui como as estrelas.|Cada grão conta.|Esteja presente, mantenha o foco.|O silêncio é a música da alma.|Um momento de cada vez.",
+    "dailyShareBonusTip": "Compartilhe diariamente para obter um teste de recursos premium"
   },
   "id": {
     "appName": "Aura Jam Pasir",
@@ -1438,7 +1448,8 @@
     "shareMyHourglass": "Bagikan Jam Pasir Saya",
     "shareBonusSuccess": "Bonus! Uji coba Pro {minutes} menit terbuka.",
     "focusMinutesLabel": "{minutes} MENIT FOKUS",
-    "zenQuotes": "Waktu mengalir seperti bintang.|Setiap butir berarti.|Hadir, tetap fokus.|Keheningan adalah musik jiwa.|Satu per satu."
+    "zenQuotes": "Waktu mengalir seperti bintang.|Setiap butir berarti.|Hadir, tetap fokus.|Keheningan adalah musik jiwa.|Satu per satu.",
+    "dailyShareBonusTip": "Bagikan setiap hari untuk mendapatkan uji coba fitur premium"
   },
   "ru": {
     "appName": "AuraSand",
@@ -1569,7 +1580,8 @@
     "shareMyHourglass": "Поделиться моими песочными часами",
     "shareBonusSuccess": "Бонус! Разблокирована пробная версия Pro на {minutes} мин.",
     "focusMinutesLabel": "{minutes} МИН КОНЦЕНТРАЦИИ",
-    "zenQuotes": "Время течет как звезды.|Каждое зернышко на счету.|Будьте здесь и сейчас, оставайтесь сосредоточенными.|Тишина — это музыка души.|Одно мгновение за раз."
+    "zenQuotes": "Время течет как звезды.|Каждое зернышко на счету.|Будьте здесь и сейчас, оставайтесь сосредоточенными.|Тишина — это музыка души.|Одно мгновение за раз.",
+    "dailyShareBonusTip": "Делитесь ежедневно, чтобы получить пробную версию премиум-функций"
   },
   "it": {
     "appName": "AuraSand",
@@ -1700,7 +1712,8 @@
     "shareMyHourglass": "Condividi la mia clessidra",
     "shareBonusSuccess": "Bonus! Prova Pro di {minutes} minuti sbloccata.",
     "focusMinutesLabel": "{minutes} MINUTI DI CONCENTRAZIONE",
-    "zenQuotes": "Il tempo scorre come le stelle.|Ogni granello conta.|Sii presente, rimani concentrato.|Il silenzio è la musica dell'anima.|Un momento alla volta."
+    "zenQuotes": "Il tempo scorre come le stelle.|Ogni granello conta.|Sii presente, rimani concentrato.|Il silenzio è la musica dell'anima.|Un momento alla volta.",
+    "dailyShareBonusTip": "Condividi ogni giorno per ottenere una prova delle funzioni premium"
   },
   "vi": {
     "appName": "AuraSand",
@@ -1831,7 +1844,8 @@
     "shareMyHourglass": "Chia sẻ đồng hồ cát của tôi",
     "shareBonusSuccess": "Thưởng! Đã mở khóa dùng thử Pro {minutes} phút.",
     "focusMinutesLabel": "{minutes} PHÚT TẬP TRUNG",
-    "zenQuotes": "Thời gian trôi như những vì sao.|Mỗi hạt đều có giá trị.|Hãy hiện diện, giữ vững sự tập trung.|Sự im lặng là âm nhạc của tâm hồn.|Từng khoảnh khắc một."
+    "zenQuotes": "Thời gian trôi như những vì sao.|Mỗi hạt đều có giá trị.|Hãy hiện diện, giữ vững sự tập trung.|Sự im lặng là âm nhạc của tâm hồn.|Từng khoảnh khắc một.",
+    "dailyShareBonusTip": "Chia sẻ hàng ngày để dùng thử tính năng cao cấp"
   },
   "ar": {
     "appName": "AuraSand",
@@ -1962,7 +1976,8 @@
     "shareMyHourglass": "مشاركة ساعتي الرملية",
     "shareBonusSuccess": "مكافأة! تم فتح فترة تجريبية Pro لمدة {minutes} دقيقة.",
     "focusMinutesLabel": "{minutes} دقيقة من التركيز",
-    "zenQuotes": "الوقت يتدفق كالنجوم.|كل حبة لها أهميتها.|كن حاضراً، ابقَ مركزاً.|الصمت هو موسيقى الروح.|لحظة واحدة في كل مرة."
+    "zenQuotes": "الوقت يتدفق كالنجوم.|كل حبة لها أهميتها.|كن حاضراً، ابقَ مركزاً.|الصمت هو موسيقى الروح.|لحظة واحدة في كل مرة.",
+    "dailyShareBonusTip": "شارك يوميا للحصول على نسخة تجريبية من الميزات المميزة"
   },
   "hi": {
     "appName": "ऑराघड़ियाल",
@@ -2093,7 +2108,8 @@
     "shareMyHourglass": "अपना ऑवरग्लास साझा करें",
     "shareBonusSuccess": "बोनस! {minutes} मिनट का प्रो ट्रायल खुला।",
     "focusMinutesLabel": "{minutes} फ़ोकस मिनट",
-    "zenQuotes": "समय तारों की तरह बहता है।|हर दाना मायने रखता है।|उपस्थित रहें, केंद्रित रहें।|मौन आत्मा का संगीत है।|एक समय में एक पल।"
+    "zenQuotes": "समय तारों की तरह बहता है।|हर दाना मायने रखता है।|उपस्थित रहें, केंद्रित रहें।|मौन आत्मा का संगीत है।|एक समय में एक पल।",
+    "dailyShareBonusTip": "प्रीमियम सुविधा परीक्षण प्राप्त करने के लिए दैनिक साझा करें"
   },
   "tr": {
     "appName": "Aura Kum Saati",
@@ -2224,7 +2240,8 @@
     "shareMyHourglass": "Kum Saatimi Paylaş",
     "shareBonusSuccess": "Bonus! {minutes} dakikalık Pro deneme kiliti açıldı.",
     "focusMinutesLabel": "{minutes} ODAKLANMA DAKİKASI",
-    "zenQuotes": "Zaman yıldızlar gibi akar.|Her tane önemlidir.|Anı yaşa, odaklan.|Sessizlik ruhun müziğidir.|Bir seferde bir an."
+    "zenQuotes": "Zaman yıldızlar gibi akar.|Her tane önemlidir.|Anı yaşa, odaklan.|Sessizlik ruhun müziğidir.|Bir seferde bir an.",
+    "dailyShareBonusTip": "Premium özellik denemesi almak için her gün paylaşın"
   },
   "nl": {
     "appName": "Aura Zandloper",
@@ -2355,7 +2372,8 @@
     "shareMyHourglass": "Deel mijn zandloper",
     "shareBonusSuccess": "Bonus! {minutes} minuten Pro-proefversie ontgrendeld.",
     "focusMinutesLabel": "{minutes} FOCUSMINUTEN",
-    "zenQuotes": "De tijd stroomt als sterren.|Elk graan telt.|Wees aanwezig, blijf gefocust.|Stilte is de muziek van de ziel.|Eén moment tegelijk."
+    "zenQuotes": "De tijd stroomt als sterren.|Elk graan telt.|Wees aanwezig, blijf gefocust.|Stilte is de muziek van de ziel.|Eén moment tegelijk.",
+    "dailyShareBonusTip": "Deel dagelijks om een proefversie van premiumfuncties te krijgen"
   },
   "pl": {
     "appName": "Aura Klepsydra",
@@ -2486,7 +2504,8 @@
     "shareMyHourglass": "Udostępnij moją klepsydrę",
     "shareBonusSuccess": "Bonus! Odblokowano {minutes} minut próbnych Pro.",
     "focusMinutesLabel": "{minutes} MINUT SKUPIENIA",
-    "zenQuotes": "Czas płynie jak gwiazdy.|Liczy się każde ziarno.|Bądź obecny, pozostań skupiony.|Cisza to muzyka duszy.|Jeden moment na raz."
+    "zenQuotes": "Czas płynie jak gwiazdy.|Liczy się każde ziarno.|Bądź obecny, pozostań skupiony.|Cisza to muzyka duszy.|Jeden moment na raz.",
+    "dailyShareBonusTip": "Udostępniaj codziennie, aby otrzymać wersję próbną funkcji premium"
   },
   "sv": {
     "appName": "Aura Sandur",
@@ -2617,7 +2636,8 @@
     "shareMyHourglass": "Dela mitt timglas",
     "shareBonusSuccess": "Bonus! {minutes} minuter Pro-testversion upplåst.",
     "focusMinutesLabel": "{minutes} FOKUSMINUTER",
-    "zenQuotes": "Tiden flyter som stjärnor.|Varje korn räknas.|Var närvarande, håll fokus.|Tystnad är själens musik.|Ett ögonblick i sänder."
+    "zenQuotes": "Tiden flyter som stjärnor.|Varje korn räknas.|Var närvarande, håll fokus.|Tystnad är själens musik.|Ett ögonblick i sänder.",
+    "dailyShareBonusTip": "Dela dagligen för att få en testversion av premiumfunktioner"
   },
   "fil": {
     "appName": "Aura Orasan",
@@ -2748,6 +2768,7 @@
     "shareMyHourglass": "Ibahagi ang Aking Hourglass",
     "shareBonusSuccess": "Bonus! Na-unlock ang {minutes} minutong Pro trial.",
     "focusMinutesLabel": "{minutes} FOCUS MINUTES",
-    "zenQuotes": "Ang oras ay dumadaloy tulad ng mga bituin.|Bawat butil ay mahalaga.|Manatili sa kasalukuyan, manatiling nakatuon.|Ang katahimikan ay musika ng kaluluwa.|Isang sandali sa isang pagkakataon."
+    "zenQuotes": "Ang oras ay dumadaloy tulad ng mga bituin.|Bawat butil ay mahalaga.|Manatili sa kasalukuyan, manatiling nakatuon.|Ang katahimikan ay musika ng kaluluwa.|Isang sandali sa isang pagkakataon.",
+    "dailyShareBonusTip": "Mag-share araw-araw para makuha ang trial ng premium na feature"
   }
 }
