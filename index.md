@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy for AuraSand
 
-**Last updated: March 7, 2026**
+**Last updated: March 13, 2026**
 
 This Privacy Policy describes how **AuraSand** ("we", "us", or "our") collects, uses, and discloses your information when you use our mobile application (the "App").
 
@@ -18,26 +18,28 @@ We use the following third-party services which may collect data:
 
 *   **Google AdMob**: Used to display advertisements. AdMob may collect and use your device's **Advertising ID** to serve personalized ads.
 *   **RevenueCat**: Used to manage in-app subscriptions and theme purchases. RevenueCat collects an anonymous **App User ID** to track your purchase status and provide features like "New User Rewards" (ad-free duration). It helps us ensure your purchases are available across your devices.
-*   **Technical Optimization and Feedback**: 
-    *   **Local Optimization**: The App may monitor basic device state information locally (such as **Battery Level**) to optimize performance (e.g., automatically disabling complex animations when the battery is low). This information remains on your device and is not uploaded to our servers.
-    *   **User Feedback**: If you choose to contact us for support or feedback, we will receive your email address and any other information you choose to provide. To help us resolve technical issues, the feedback email may automatically include basic anonymous technical details such as your App Version, Device Model, and OS Version.
+
+### Local Data & Custom Features
+*   **Technical Optimization**: The App may monitor basic device state information locally (such as **Battery Level**) to optimize performance. This information remains on your device and is not uploaded to our servers.
+*   **Custom Audio Files**: If you use the "Custom Sound" or "Custom Music" features, the App will use a file picker to allow you to select audio files from your device. These files are accessed **locally only** for playback during timer sessions or alerts. We do not upload, copy, or share your local audio files.
+*   **User Feedback**: If you choose to contact us for support or feedback, we will receive your email address and any other information you choose to provide. 
 
 Links to the privacy policies of third-party service providers used by the App:
-*   [Google Play Services](https://policies.google.com/privacy )
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en )
-*   [RevenueCat](https://www.revenuecat.com/privacy )
+*   [Google Play Services](https://policies.google.com/privacy)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
 ## 2. App Permissions (Google Play)
 
 The App requires specific permissions to function correctly:
 
 *   **BILLING**: Required to facilitate in-app purchases and subscriptions through Google Play Billing.
-*   **INTERNET & ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases (via RevenueCat), displaying advertisements, and checking network connectivity status.
-*   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert in the notification bar.
-*   **USE_EXACT_ALARM & SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set.
-*   **FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK**: Required to keep the timer running and play the alarm sound even when the app is in the background or the screen is locked.
-*   **USE_FULL_SCREEN_INTENT**: Required to show the full-screen alarm interface when the timer finishes while your device is locked.
-*   **WAKE_LOCK**: Required to keep the CPU awake briefly during alarm events to ensure reliable notification delivery.
+*   **INTERNET & ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases, displaying ads, and checking connectivity.
+*   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert.
+*   **SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set.
+*   **READ_EXTERNAL_STORAGE / READ_MEDIA_AUDIO**: Required if you choose to use the "Custom Sound" or "Custom Music" feature to select files from your gallery or file manager.
+*   **FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK**: Required to keep the timer running and play sounds in the background.
+*   **WAKE_LOCK**: Required for reliable alarm delivery.
 
 ## 3. Data Safety (Google Play)
 
