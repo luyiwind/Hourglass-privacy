@@ -68,3 +68,8 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 {% raw %}
 <a href="mailto:luyiuestc@gmail.com">luyiuestc@gmail.com</a>
 {% endraw %}
+
+## 8. Official Website
+
+For more information about AuraSand, please visit our official website:
+[https://luyiwind.github.io/AuraSand/](https://luyiwind.github.io/AuraSand/)
