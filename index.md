@@ -66,10 +66,14 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 {% raw %}
-<a href="mailto:luyiuestc@gmail.com">luyiuestc@gmail.com</a>
+<a href="mailto:
+aurasand@googlegroups.com">
+aurasand@googlegroups.com</a>
 {% endraw %}
 
 ## 8. Official Website
 
 For more information about AuraSand, please visit our official website:
-[https://luyiwind.github.io/AuraSand/](https://luyiwind.github.io/AuraSand/)
+[
+https://aurasand.github.io/site](
+https://aurasand.github.io/site)
