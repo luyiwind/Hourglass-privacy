@@ -37,6 +37,7 @@ The App requires specific permissions to function correctly:
 *   **INTERNET & ACCESS_NETWORK_STATE**: Required for downloading themes, validating purchases, displaying ads, and checking connectivity.
 *   **POST_NOTIFICATIONS**: Required to show the timer progress and the "Time's up" alert.
 *   **SCHEDULE_EXACT_ALARM**: Required to ensure the timer finishes at the exact precise moment you set.
+*   **ACCESS_NOTIFICATION_POLICY (Do Not Disturb Access)**: Required if you use the "DND Mode" toggle. It allows you to quickly switch the system's Do Not Disturb status within the app to avoid interruptions.
 *   **READ_EXTERNAL_STORAGE / READ_MEDIA_AUDIO**: Required if you choose to use the "Custom Sound" or "Custom Music" feature to select files from your gallery or file manager.
 *   **FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PLAYBACK**: Required to keep the timer running and play sounds in the background.
 *   **WAKE_LOCK**: Required for reliable alarm delivery.
